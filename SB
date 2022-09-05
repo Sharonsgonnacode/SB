@@ -1,1 +1,13 @@
-<DOCTYPE HTML>
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>SBArt</title>
+<link rel = "stylesheet" href = "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"/> 
+ <meta name="viewport" content="width=device-width, initial-scale=1"/>
+<script src = "https://code.jquery.com/jquery-3.1.0.min.js"></script>
+</head>
+<body>
+<h1> Sharon Barrett</h1>
+<p style = "background-color: grey;">I am seeking a ful time position that is close to home or preferabley remote. I am an English graduate who has recently completed her PGCE. I have been employed with the covid infection survey for the past nearly two years and I am awaiting supply or cover supervision work in the education sector.<br> Ultimately I would like to secure a full time position as soon as possible and so I am showcasing my html skills as a remote position would be ideal. <br> I am reliable, hard working and concientious. I recieved an email from the lead manager of the covid infection survey for my outstanding contribution to the study which I have posted on Linked in. I will look forward to offers of employment./>
+</body>
+</html?
